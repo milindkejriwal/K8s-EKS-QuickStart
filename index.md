@@ -1,6 +1,6 @@
 ## How to run your apps on EKS with just a few clicks
 
-So it’s 2021 & everyone wants to push their apps to Kubernetes. But let’s face it, this is still unknown territory for a lot of teams, especially those trying to modernise their existing apps. Also, having to go through endless tutorials & blogs, just for getting started, can be daunting. Although there is Minikube & similar tools out there, but often, enterprise cloud environments & their constraints are hard to replicate locally.
+So it’s 2021 & everyone wants to push their apps to Kubernetes. But let’s face it, this is still unknown territory for a lot of teams, especially those trying to modernise their existing apps. Also, having to go through endless tutorials & blogs, just for getting started, can be daunting. We know there's Minikube & similar tools out there, but enterprise cloud environments & their constraints are often hard to replicate locally.
 
 Not anymore, though!
 
