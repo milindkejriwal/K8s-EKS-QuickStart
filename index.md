@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## How to get started with managed-Kubernetes hosting with a few clicks
 
 You can use the [editor on GitHub](https://github.com/Mkejriwal270/K8s-EKS-QuickStart/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
