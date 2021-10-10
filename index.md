@@ -8,7 +8,9 @@ This solution enables you to start deploying and testing your application on Ama
 
 More on that later, let’s get started.
 
-### Markdown
+### Setting things up
+
+For starters, clone [this](https://github.com/Mkejriwal270/K8s-EKS-QuickStart) repository and push it to your GitHub account.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
