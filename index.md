@@ -1,6 +1,6 @@
-## How to get started with managed-Kubernetes hosting with a few clicks
+## How to run your apps on EKS with a few clicks
 
-So it’s 2021 & everyone wants to push their apps to Kubernetes. But let’s face it, this is still unknown territory for a lot of teams, especially the ones trying to modernise existing applications. Also, having to go through endless tutorials & blogs, just to get started, can be daunting. Although there is Minikube & similar tools out there, but often, enterprise cloud environments & their constraints are hard to replicate on local systems.
+So it’s 2021 & everyone wants to push their apps to Kubernetes. But let’s face it, this is still unknown territory for a lot of teams, especially the ones trying to modernise existing applications. Also, having to go through endless tutorials & blogs just for getting started can be daunting. Although there is Minikube & similar tools out there but often, enterprise cloud environments & their constraints are hard to replicate on local systems.
 
 Not anymore, though!
 
