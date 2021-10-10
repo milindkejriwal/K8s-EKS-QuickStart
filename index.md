@@ -1,10 +1,12 @@
 ## How to get started with managed-Kubernetes hosting with a few clicks
 
-So it’s 2021 and everyone wants to host their enterprise apps on Kubernetes. But let’s face it, it is still unknown territory for a vast majority of development teams, especially the ones trying to modernise legacy applications. Also, when you have deadlines to meet and production issues to deal with, and you’re only concerned with getting started, going through endless tutorials can be daunting. One could argue that you can use Minikube or similar tools, but often, enterprise cloud environments and their security constraints are hard to replicate on local systems.
+So it’s 2021 & everyone wants to push their apps to Kubernetes. But let’s face it, this is still unknown territory for a lot of teams, especially the ones trying to modernise existing applications. Also, having to go through endless tutorials & blogs, just to get started, can be daunting. Although there is Minikube & similar tools out there, but often, enterprise cloud environments & their constraints are hard to replicate on local systems.
 
 Not anymore, though!
 
-This is a solution which enables you to start deploying and testing your application on Amazon’s Elastic Kubernetes Service with practically zero knowledge of the underlying architecture and workings of K8s. All you need is an AWS Account, an IAM Admin User, and your application source code with its Dockerfile, and that’s it.  With just a few clicks, you will be able to provision a minimal cluster where you can run and test your apps without installing any extra utilities, command-line tools or dependencies locally, since everything will be managed by your GitHub Repository and GitHub Actions workflows. More on that later, let’s get started.
+This solution enables you to start deploying and testing your application on Amazon’s Elastic Kubernetes Service with practically zero knowledge of the underlying architecture. All you need is an AWS Account, an IAM Admin User, & your source code with its Dockerfile, & that’s it.  With just a few clicks, you will be good to go without having to install any extra utilities or dependencies locally, as your repo will do that for you. 
+
+More on that later, let’s get started.
 
 ### Markdown
 
