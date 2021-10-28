@@ -4,9 +4,9 @@ So it’s 2021 & everyone wants to push their apps to Kubernetes. But let’s fa
 
 Not anymore, though!
 
-This solution enables you to start deploying and testing your application on Amazon’s Elastic Kubernetes Service with practically zero knowledge of the underlying architecture. All you need is an AWS Account, an IAM Admin User, & your source code with its Dockerfile, & that’s it.  With just a few clicks, you will be good to go without having to install any extra utilities or dependencies locally, as your repo will do that for you. 
+This is a solution that enables you to start deploying and testing your application on Amazon’s Elastic Kubernetes Service with practically zero knowledge of the underlying architecture. All you need is an AWS Account, an IAM Admin User, & your source code with its Dockerfile, & that’s it.  With just a few clicks, you will be good to deploy a fully-managed Kubernetes cluster with a live runnning application accessible via a public/private URL. No CLIs, no utilities and no dependencies!
 
-More on that later, let’s get started.
+Let’s get started.
 
 ### Setting things up
 
